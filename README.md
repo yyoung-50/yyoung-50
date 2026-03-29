@@ -5,28 +5,28 @@ Welcome to my GitHub portfolio. Cloud architecture can get complicated fast, esp
 
 ---
 
-## Technical Projects
+## AWS Architecture Projects
 
-Below are my cloud engineering projects. Each link takes you to a dedicated repository with a full walkthrough, architecture diagrams, and implementation details.
+Here are the four AWS projects that represent the core areas I focus on.
 
 ---
 
-### 🔹 **[CloudFront with Multiple Origins](https://github.com/yyoung-50/aws-cloudfront-multi-origin)**  
+### 🔹 **[CloudFront with Multiple Origins](https://github.com/yyoung-50/Portfolio/tree/master/aws-projects/aws-cloudfront-multi-origin)**  
 Demonstrates how to build an Amazon CloudFront distribution with multiple custom origins backed by Application Load Balancers and EC2 instances. Includes routing behavior, failover logic, and performance optimization.
 
 ---
 
-### 🔹 **[Cross‑Region Disaster Recovery](https://github.com/yyoung-50/aws-crossregion-disaster-recovery)**  
+### 🔹 **[Cross‑Region Disaster Recovery](https://github.com/yyoung-50/Portfolio/tree/master/aws-projects/aws-crossregion-disaster-recovery)**  
 Shows how to build identical architectures across two AWS regions, connect them to a shared database layer, and perform automated failover during a disaster recovery event. Highlights RTO/RPO considerations and multi‑region design patterns.
 
 ---
 
-### 🔹 **[Secure Multi‑Tier Architecture](https://github.com/yyoung-50/aws-secure-multitier-architecture)**  
+### 🔹 **[Secure Multi‑Tier Architecture](https://github.com/yyoung-50/Portfolio/tree/master/aws-projects/aws-secure-multitier-architecture)**  
 A deep dive into designing secure cloud architectures using layered security controls. Demonstrates how AWS services work together to create a defense‑in‑depth model aligned with the AWS Well‑Architected Framework Security Pillar.
 
 ---
 
-### 🔹 **[Serverless Web Application](https://github.com/yyoung-50/aws-serverless-webapp)**  
+### 🔹 **[Serverless Web Application](https://github.com/yyoung-50/Portfolio/tree/master/aws-projects/aws-serverless-webapp)**  
 Demonstrates how to design and deploy a fully serverless application using AWS Lambda, API Gateway, DynamoDB, and S3. Highlights event‑driven architecture, IAM least‑privilege design, and cost‑optimized patterns for scalable, maintenance‑free applications.
 
 ---
