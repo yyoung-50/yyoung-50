@@ -5,8 +5,11 @@ Cloud architecture can get complicated fast, especially in real enterprise envir
 
 ## Featured Projects
 
+---
+
 ### 🔹 **[Vault Troubleshooting Lab](https://github.com/yyoung-50/vault-troubleshooting-lab)**
 
+---
 
 ### 🔹 **[Terraform S3 Secure Bucket](https://github.com/yyoung-50/terraform-s3-secure-bucket)**
 
