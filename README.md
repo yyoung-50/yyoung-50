@@ -3,6 +3,16 @@
 
 Cloud architecture can get complicated fast, especially in real enterprise environments, so I wanted to focus on a few important areas in cloud networking. I chose security, disaster recovery, content delivery, and serverless because these are the core building blocks you see repeatedly in real AWS implementations. These architecture categories are widely used and have a high impact in cloud engineering. These four projects reflect the topics I consider essential for anyone implementing cloud solutions.
 
+## 🌟 Featured Projects
+
+### 🔧 Vault Troubleshooting Lab
+A hands-on troubleshooting environment demonstrating real-world Vault support scenarios.  
+👉 https://github.com/yyoung-50/vault-troubleshooting-lab
+
+### 🪣 Terraform S3 Secure Bucket
+A Terraform project that deploys a secure, encrypted, versioned S3 bucket following best practices.  
+👉 https://github.com/yyoung-50/terraform-s3-secure-bucket
+
 ---
 
 ## AWS Architecture Projects
