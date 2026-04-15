@@ -5,14 +5,12 @@ Cloud architecture can get complicated fast, especially in real enterprise envir
 
 ## Featured Projects
 
----
-
 ### 🔹 **[Vault Troubleshooting Lab](https://github.com/yyoung-50/vault-troubleshooting-lab)**
-
 ---
 
 ### 🔹 **[Terraform S3 Secure Bucket](https://github.com/yyoung-50/terraform-s3-secure-bucket)**
 This project demonstrates how to use Terraform to deploy a secure Amazon S3 bucket. I created this project as a step-by-step guide to help those new to Terraform get started.
+
 ---
 
 ## AWS Architecture Projects
