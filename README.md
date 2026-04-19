@@ -8,6 +8,7 @@ Cloud architecture can get complicated fast, especially in real enterprise envir
 ### 🔹 **[Vault Troubleshooting Lab](https://github.com/yyoung-50/vault-troubleshooting-lab)**
 
 This lab is designed to simulate real-world Vault technical issues. I encountered these learning Vault and thought I would share my knowledge and to learn more about troubleshooting Vault.
+
 ---
 
 ### 🔹 **[Terraform S3 Secure Bucket](https://github.com/yyoung-50/terraform-s3-secure-bucket)**
