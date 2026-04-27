@@ -1,7 +1,11 @@
 # Yvonne Young  
 **RHCSA | Support Engineer | AWS | Linux | Terraform | Vault | Customer Advocacy & Systems Reliability**
 
-Cloud architecture can get complicated fast, especially in real enterprise environments, so I wanted to focus on a few important areas in cloud networking. I chose security, disaster recovery, content delivery, and serverless because these are the core building blocks you see a lot in real AWS implementations. These architecture categories are widely used and have a high impact in cloud engineering. There are a large  number of cloud topics to chose from, but I chose these four as they reflect topics I consider essential for anyone implementing cloud solutions.
+Cloud architecture can get complicated fast, especially in real enterprise environments, so I focus on a few key areas that show up often in real-world implementations.
+
+At the top are my featured projects: a Vault troubleshooting lab written in a ticket-style format to walk through real issues, and a simple Terraform demo designed to help beginners get started with deploying resources.
+
+The AWS projects below represent core architecture areas I’ve focused on: security, disaster recovery, content delivery, and serverless. These are widely used patterns in cloud engineering and form the foundation for building reliable and scalable cloud solutions.
 
 ## Featured Projects
 
