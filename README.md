@@ -7,7 +7,7 @@ Cloud architecture can get complicated fast, especially in real enterprise envir
 
 ### 🔹 **[Vault Troubleshooting Lab](https://github.com/yyoung-50/vault-troubleshooting-lab)**
 
-This lab is designed to simulate real-world Vault technical issues. I encountered these learning Vault and thought I would share my knowledge and to learn more about troubleshooting Vault.
+This lab uses a ticket‑style format to walk through Vault issues step‑by‑step. It’s the same approach I’ve used in real troubleshooting knowledgebase articles to document symptoms, isolate root causes, and show the exact steps to resolve an issue.
 
 ---
 
