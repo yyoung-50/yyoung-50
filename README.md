@@ -59,7 +59,6 @@ Demonstrates how to design and deploy a fully serverless application using AWS L
 
   <tbody>
 
-    <!-- Row 1 -->
  <tr>
       <td>
         <a href="https://github.com/yyoung-50/Portfolio/tree/master/cloud-foundations/Cloud%20Demo%20Videos">
@@ -73,7 +72,6 @@ Demonstrates how to design and deploy a fully serverless application using AWS L
       </td>
     </tr>
 
-    <!-- Row 2 -->
  <tr>
       <td>
         <a href="https://github.com/yyoung-50/Portfolio/tree/master/cloud-foundations/Cloud%20Demo%20Videos/Terraform%20demo">
