@@ -44,9 +44,8 @@ A deep dive into designing secure cloud architectures using layered security con
 ### 🔹 **[Serverless Web Application](https://github.com/yyoung-50/Portfolio/tree/master/aws-projects/aws-serverless-webapp)**  
 Demonstrates how to design and deploy a fully serverless application using AWS Lambda, API Gateway, DynamoDB, and S3. Highlights event‑driven architecture, IAM least‑privilege design, and cost‑optimized patterns for scalable, maintenance‑free applications.
 
----
 
-## 🎯 Cloud Demo Videos
+<h2>Past Public Projects (Learning Milestones)</h2>
 
 <table>
   <thead>
@@ -59,8 +58,6 @@ Demonstrates how to design and deploy a fully serverless application using AWS L
   </thead>
 
   <tbody>
-
-    <!-- Row 1 -->
     <tr>
       <td>
         <img src="https://raw.githubusercontent.com/yyoung-50/yyoung-50/refs/heads/master/assets/cloud-and-devops.png" width="180" />
@@ -73,11 +70,10 @@ Demonstrates how to design and deploy a fully serverless application using AWS L
         </a>
       </td>
     </tr>
-
   </tbody>
 </table>
 
----
+
 
 ### Certifications
 - Red Hat Certified Systems Administrator (RHCSA)
