@@ -70,6 +70,21 @@ Demonstrates how to design and deploy a fully serverless application using AWS L
         </a>
       </td>
     </tr>
+
+        <!-- Row 2 -->
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/yyoung-50/yyoung-50/refs/heads/master/assets/cloud-and-devops.png" width="180" />
+      </td>
+      <td><strong>YOUR PROJECT TITLE</strong></td>
+      <td>Your project description goes here</td>
+      <td>
+        <a href="https://github.com/yyoung-50/Portfolio/tree/master/cloud-foundations/Cloud%20Demo%20Videos/Terraform%20demo">
+          GitHub
+        </a>
+      </td>
+    </tr>
+
   </tbody>
 </table>
 
