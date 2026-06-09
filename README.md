@@ -46,6 +46,39 @@ Demonstrates how to design and deploy a fully serverless application using AWS L
 
 ---
 
+## 🎯 Cloud Demo Videos
+
+<table>
+  <thead>
+    <tr>
+      <th>Demo</th>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+
+  <tbody>
+
+    <!-- Row 1 -->
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/yyoung-50/yyoung-50/refs/heads/master/assets/cloud-and-devops.png" width="180" />
+      </td>
+      <td><strong>Cloud Demo Videos</strong></td>
+      <td>Sample video clips from Cloud & DevOps course</td>
+      <td>
+        <a href="https://github.com/yyoung-50/Portfolio/tree/master/cloud-foundations/Cloud%20Demo%20Videos">
+          GitHub
+        </a>
+      </td>
+    </tr>
+
+  </tbody>
+</table>
+
+---
+
 ### Certifications
 - Red Hat Certified Systems Administrator (RHCSA)
 - HashiCorp Vault Associate (In Progress)
