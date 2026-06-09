@@ -58,34 +58,39 @@ Demonstrates how to design and deploy a fully serverless application using AWS L
   </thead>
 
   <tbody>
-    <tr>
+
+    <!-- Row 1 -->
+ <tr>
       <td>
-        <img src="https://raw.githubusercontent.com/yyoung-50/yyoung-50/refs/heads/master/assets/cloud-and-devops.png" width="180" />
+        <a href="https://github.com/yyoung-50/Portfolio/tree/master/cloud-foundations/Cloud%20Demo%20Videos">
+          <img src="https://raw.githubusercontent.com/yyoung-50/yyoung-50/refs/heads/master/assets/cloud-and-devops.png" width="180" />
+        </a>
       </td>
       <td><strong>Cloud Demo Videos</strong></td>
       <td>Sample video clips from Cloud & DevOps course</td>
       <td>
-        <a href="https://github.com/yyoung-50/Portfolio/tree/master/cloud-foundations/Cloud%20Demo%20Videos">
-          GitHub
-        </a>
+        <a href="https://github.com/yyoung-50/Portfolio/tree/master/cloud-foundations/Cloud%20Demo%20Videos">🔗 GitHub Repo</a>
       </td>
     </tr>
 
-   <tr>
+    <!-- Row 2 -->
+ <tr>
       <td>
-        <img src="https://raw.githubusercontent.com/yyoung-50/yyoung-50/refs/heads/master/assets/cloud-and-devops.png" width="180" />
+        <a href="https://github.com/yyoung-50/Portfolio/tree/master/cloud-foundations/Cloud%20Demo%20Videos/Terraform%20demo">
+          <img src="https://raw.githubusercontent.com/yyoung-50/yyoung-50/refs/heads/master/assets/cloud-and-devops.png" width="180" />
+        </a>
       </td>
       <td><strong>Terraform Demo Videos</strong></td>
       <td>Sample video clips on Terraform from my IT & Cloud DevOps Foundations course</td>
       <td>
-        <a href="https://github.com/yyoung-50/Portfolio/tree/master/cloud-foundations/Cloud%20Demo%20Videos/Terraform%20demo">
-          GitHub
-        </a>
+        <a href="https://github.com/yyoung-50/Portfolio/tree/master/cloud-foundations/Cloud%20Demo%20Videos/Terraform%20demo">🔗 GitHub Repo</a>
       </td>
     </tr>
 
   </tbody>
 </table>
+
+
 
 ### Certifications
 - Red Hat Certified Systems Administrator (RHCSA)
