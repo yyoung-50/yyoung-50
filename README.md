@@ -75,8 +75,8 @@ Demonstrates how to design and deploy a fully serverless application using AWS L
       <td>
         <img src="https://raw.githubusercontent.com/yyoung-50/yyoung-50/refs/heads/master/assets/cloud-and-devops.png" width="180" />
       </td>
-      <td><strong>YOUR PROJECT TITLE</strong></td>
-      <td>Your project description goes here</td>
+      <td><strong>Terraform Demo Videos</strong></td>
+      <td>Sample video clips on Terraform from my IT & Cloud DevOps Foundations course</td>
       <td>
         <a href="https://github.com/yyoung-50/Portfolio/tree/master/cloud-foundations/Cloud%20Demo%20Videos/Terraform%20demo">
           GitHub
