@@ -71,7 +71,7 @@ Demonstrates how to design and deploy a fully serverless application using AWS L
       </td>
     </tr>
 
-    <tr>
+   <tr>
       <td>
         <img src="https://raw.githubusercontent.com/yyoung-50/yyoung-50/refs/heads/master/assets/cloud-and-devops.png" width="180" />
       </td>
