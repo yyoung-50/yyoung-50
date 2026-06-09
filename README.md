@@ -45,7 +45,7 @@ A deep dive into designing secure cloud architectures using layered security con
 Demonstrates how to design and deploy a fully serverless application using AWS Lambda, API Gateway, DynamoDB, and S3. Highlights event‑driven architecture, IAM least‑privilege design, and cost‑optimized patterns for scalable, maintenance‑free applications.
 
 
-<h2>Past Public Projects (Learning Milestones)</h2>
+<h2>Cloud Foundations Course</h2>
 
 <table>
   <thead>
