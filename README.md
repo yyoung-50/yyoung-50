@@ -47,6 +47,16 @@ Demonstrates how to design and deploy a fully serverless application using AWS L
 
 <h2>Cloud Foundations Course</h2>
 
+<style>
+  .project-img {
+    transition: opacity 0.2s ease-in-out;
+  }
+  .project-img:hover {
+    opacity: 0.8;
+    cursor: pointer;
+  }
+</style>
+
 <table>
   <thead>
     <tr>
@@ -75,7 +85,7 @@ Demonstrates how to design and deploy a fully serverless application using AWS L
  <tr>
       <td>
         <a href="https://github.com/yyoung-50/Portfolio/tree/master/cloud-foundations/Cloud%20Demo%20Videos/Terraform%20demo">
-          <img src="https://raw.githubusercontent.com/yyoung-50/yyoung-50/refs/heads/master/assets/cloud-and-devops.png" width="180" />
+          <img class="project-img" src="https://raw.githubusercontent.com/yyoung-50/yyoung-50/refs/heads/master/assets/terraformblue.png" width="180" />
         </a>
       </td>
       <td><strong>Terraform Demo Videos</strong></td>
